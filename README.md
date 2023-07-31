@@ -1,4 +1,10 @@
-# Build and Deploy a Full Stack MERN AI Image Generation App  MidJourney & DALL E Clone
-![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
+# Full Stack MERN AI Image Generation App DALL E Clone
+This is an AI Image Generation app similar to Dall-e, where you can create amazing images using the power of OpenAI's API. This application allows you to enter a prompt, which will be used to generate an image by the AI. You can also store the generated image on Cloudinary and share it with the community. Additionally, the app includes a MongoDB database to keep track of and display the images along with the prompts given by previous users.
 
-### Launch your development career with project-based coaching - https://www.jsmastery.pro
+## How to Use
+1. Enter a Prompt: On the home page, you'll find an input field where you can type in your prompt. Be creative and imaginative!<br>
+2. Generate an Image: Click the "Generate" button, and the app will use OpenAI's API to create an image based on your prompt.<br>
+3. Store on Cloudinary (Optional): If you want to save your image on Cloudinary, click the "Share with community" button. <br>
+4. Explore the Gallery: Head over to the "Home" section to see a collection of images created by other users along with the prompts they used.<br>
+
+
